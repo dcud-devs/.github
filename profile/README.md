@@ -2,7 +2,7 @@
 
 - 👀 We are some very dumb people
 - 🌱 Were making some games and websites
-- 📫 Reach the group at [acht@mmmarco.de](mailto:acht@acht.mmmarco.de)
+- 📫 Reach the group at [acht@acht.mmmarco.de](mailto:acht@acht.mmmarco.de)
 
 
 ### [acht.mmmarco.de](https://acht.mmmarco.de/)

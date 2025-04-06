@@ -2,10 +2,10 @@
 
 - 👀 We are some very dumb people
 - 🌱 Were making some games and websites
-- 📫 Reach the group at [acht@acht.mmmarco.de](mailto:acht@acht.mmmarco.de)
+- 📫 Reach the group at `dcdu AT dcud dot duck dot casa`
 
 
-### [acht.mmmarco.de](https://acht.mmmarco.de/)
+### [dcud.duck.casa](https://dcud.duck.casa/)
 <!---
 i-like-trains-de/i-like-trains-de is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

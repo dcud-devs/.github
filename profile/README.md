@@ -2,7 +2,7 @@
 
 - 👀 We are some very dumb people
 - 🌱 Were making some games and websites
-- 📫 Reach the group at `dcdu AT dcud dot duck dot casa`
+- 📫 Reach the group at `dcud AT dcud dot duck dot casa`
 
 
 ### [dcud.duck.casa](https://dcud.duck.casa/)

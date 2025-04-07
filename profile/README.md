@@ -1,4 +1,4 @@
-![Hello](./header.png)
+![Hello](./IMG_2807.png)
 
 #### 👀 We are some very dumb people
 #### 🌱 Were making some games and websites

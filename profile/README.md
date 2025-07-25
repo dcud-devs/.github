@@ -2,7 +2,7 @@
 
 #### 👀 We are some very dumb people
 #### 🌱 Were making some games and websites
-#### 📫 Reach the group. **`we AT dcud dot duck dot casa`**
+#### 📫 Reach the group. **`project.dcud-devs@mmmarco.de`**
 
 
 ### [dcud.duck.casa](https://dcud.duck.casa/)
